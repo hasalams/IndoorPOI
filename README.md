@@ -1,4 +1,6 @@
-# IndoorPOI
-Indoor Points of Interest
+# Indoor Points of Interest (POI)
 
-Extracting Indoor Points of Interests based on WiFi similarity scores
+Points of Interest for a smartphone user is extracted using GPS data when the user is in an outdoor environment. When the user enters an indoor environment GPS singal quality is poor and hence, identifying indoor points of interests becomes a challege.
+
+Therefore, we propose a technique to extracting indoor points of interests based on surrounding WiFi access point (AP) information. 
+We utilize a smartphone applicaition to scan the surrrounding WiFi AP information such as MAC address and respective RSSI for each AP.
