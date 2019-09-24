@@ -4,3 +4,5 @@ Points of Interest for a smartphone user is extracted using GPS data when the us
 
 Therefore, we propose a technique to extract indoor points of interests based on surrounding WiFi access point (AP) information. 
 We utilize a smartphone applicaition to scan the surrrounding WiFi AP information such as MAC address and respective received signal strength (RSS) for each AP.
+
+The detailed information are available in the following research paper https://arxiv.org/abs/1908.08929 (Published in the 16th IEEE Asia Pacific Wireless Communications Symposium (APWCS) at Singapore University of Technology and Design in Singapore, August 28-30, 2019)
